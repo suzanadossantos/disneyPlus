@@ -27,6 +27,6 @@ O projeto foi criado através do tutorial do canal Hello Codes
 
 - 🔗 Canal com o tutorial: https://youtube.com/playlist?list=PLrxph-IV8wY7IG5oGr8_hado37DkTwsPa
 
-- 🔗👩🏻‍💻 GitHub (amaiacoimbra): https://github.com/amaiacoimbra
-- 🔗👩🏻‍💻 GitHub (tainadomingues): https://github.com/tainadomingues
-- 🔗👩🏻‍💻 GitHub (Thainunes): https://github.com/Thainunes
+- 🔗👩🏻‍💻 GitHub (Amaia): https://github.com/amaiacoimbra
+- 🔗👩🏻‍💻 GitHub (Taina): https://github.com/tainadomingues
+- 🔗👩🏻‍💻 GitHub (Thais): https://github.com/Thainunes
