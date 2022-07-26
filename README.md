@@ -16,8 +16,6 @@ O projeto foi criado através do tutorial do canal Hello Codes
 - CSS
 - HTML
 - JavaScript
-- Vercel
-
 
 ### Mais informações
 
@@ -25,4 +23,10 @@ O projeto foi criado através do tutorial do canal Hello Codes
 
 ### Links
 
-- Projeto: 
+- 🔗 Projeto: https://disney-plus-nu.vercel.app/
+
+- 🔗 Canal com o tutorial: https://youtube.com/playlist?list=PLrxph-IV8wY7IG5oGr8_hado37DkTwsPa
+
+- 🔗👩🏻‍💻 GitHub (amaiacoimbra): https://github.com/amaiacoimbra
+- 🔗👩🏻‍💻 GitHub (tainadomingues): https://github.com/tainadomingues
+- 🔗👩🏻‍💻 GitHub (Thainunes): https://github.com/Thainunes
