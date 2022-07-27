@@ -11,7 +11,7 @@ O projeto foi criado através do tutorial do canal Hello Codes
 ![Captura de Tela](https://user-images.githubusercontent.com/94690066/181063018-1d806e8e-ccca-4d85-bf76-cc29a410a74e.png)
 
 
-### Ferramentas
+### Tecnologias
 
 - CSS
 - HTML
